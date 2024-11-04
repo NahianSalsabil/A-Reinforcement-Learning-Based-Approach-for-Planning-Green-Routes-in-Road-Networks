@@ -1,11 +1,11 @@
  The Green Route Problem aims to find optimal travel paths that minimize nega-
 tive environmental impacts while still meeting practical constraints of travel distance. In this
 context, we focus on three critical aspects:
-- Air Pollution: By selecting routes that minimize exposure to high-pollution areas, we can con-
+- **Air Pollution:** By selecting routes that minimize exposure to high-pollution areas, we can con-
 tribute to cleaner air and better health outcomes.
-- Noise Pollution: Noise pollution from traffic affects both physical health and mental well-
+- **Noise Pollution:** Noise pollution from traffic affects both physical health and mental well-
 being. By avoiding noisy routes, we can reduce noise exposure for commuters.
-- Green Spaces: Urban green spaces help mitigate pollution, reduce heat island
+- **Green Spaces:** Urban green spaces help mitigate pollution, reduce heat island
 effects, and enhance overall well-being. Incorporating green spaces into route planning
 can lead to a more sustainable urban environment.
 
