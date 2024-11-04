@@ -1,4 +1,5 @@
- The Green Route Problem aims to find optimal travel paths that minimize nega-
+# RL Based Approach to Plan Green Routes in Road Networks
+The Green Route Problem aims to find optimal travel paths that minimize nega-
 tive environmental impacts while still meeting practical constraints of travel distance. In this
 context, we focus on three critical aspects:
 - **Air Pollution:** By selecting routes that minimize exposure to high-pollution areas, we can con-
